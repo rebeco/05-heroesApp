@@ -21,7 +21,7 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El2"
     },
     {
       "id": "dc-flash",
@@ -166,30 +166,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "superhero": "kkkkkk888",
-      "publisher": "DC Comics",
-      "alter_ego": "rebeco",
-      "first_appearance": "la primera",
-      "characters": "calico",
-      "id": "L30DZQR"
-    },
-    {
-      "superhero": "prueba",
-      "publisher": "DC Comics",
-      "alter_ego": "",
-      "first_appearance": "",
-      "characters": "",
-      "id": "LlykBDo"
-    },
-    {
-      "superhero": "prueba2",
-      "publisher": "DC Comics",
-      "alter_ego": "",
-      "first_appearance": "",
-      "characters": "",
-      "id": "acFEbc9"
     }
   ]
 }
